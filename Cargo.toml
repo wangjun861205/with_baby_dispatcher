@@ -11,3 +11,4 @@ h3ron-h3-sys = "*"
 dotenv = "*"
 kafka = "*"
 r2d2 = "*"
+rdkafka = { version = "*", features = ["cmake-build"] }
